@@ -1,0 +1,48 @@
+# 🌐 Web CV Template – May Gutierrez
+
+A clean, responsive and animated Web CV template built with pure HTML, CSS and JavaScript. Includes light/dark mode, sticky navigation, and smooth animations. Ideal for developers and designers showcasing their skills online.
+
+## 📁 Project structure
+
+```
+📂 web-cv/
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+```
+
+## 🚀 How to use
+
+1. Clone or download this repository.
+2. Open `index.html` in your browser.
+3. Customize the content with your own information.
+
+To publish it:
+- Use [GitHub Pages](https://pages.github.com/) or upload it to your own hosting service.
+
+## 🛠️ Customize
+
+- Change colors and fonts in `style.css`
+- Add your own projects and skills in `index.html`
+- Replace social links and email
+- Add translations or more sections as needed
+
+## 🌐 Live Demo
+
+[🔗 See Demo on GitHub Pages](https://yourusername.github.io/web-cv)
+
+## 📦 Includes
+
+- HTML5
+- CSS3 (responsive + animations)
+- JavaScript (dark mode toggle + smooth scroll)
+- Mobile-friendly layout
+
+## 📸 Preview
+
+*(Add screenshots or mockups of the template here)*
+
+## 🧾 License
+
+This project is licensed under the MIT License – feel free to use, modify and share.
